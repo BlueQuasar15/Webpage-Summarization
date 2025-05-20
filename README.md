@@ -1,4 +1,4 @@
-# Webpage-Summarization
+# AI based Search Engine Summarizer
 Follow this colaboratory link to [view the code](https://colab.research.google.com/drive/1Hm7aGFJ7raPZkofA0KbA4l7f9Kknq_HA?usp=sharing).<br>
 This program takes a search query from the user and compiles the textual information of all the webpages that appear on the first page of the SERPs (Search Engine Result Pages). The application utilizes BART which is an abstractive summarization model, which is capable of understanding the information in the compiled text as a human would, and summarizes it in short.
 
